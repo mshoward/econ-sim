@@ -20,4 +20,10 @@ class app_conf:
 class conf_reader:
     
     def __init__(self):
-        
+        pass
+    
+    def get_conf():
+        return app_conf.conf
+    
+    def configure():
+        return app_conf.conf

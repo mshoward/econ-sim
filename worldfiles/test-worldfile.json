@@ -1,0 +1,22 @@
+{
+    "name": "test_world_0",
+    "cells": 
+    {
+        "0, 0":
+        {
+            "agents":
+            {
+                "agent_id": 0,
+                "utility": 0,
+                "energy": 0
+            },
+            "actions":
+            [
+                {
+                    "action_type" : "get_raw_mats",
+                    "required_mats": []
+                }
+            ]
+        }
+    }
+}

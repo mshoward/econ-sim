@@ -9,10 +9,11 @@ todo: stop assuming that.
 """
 
 from cell import cell
-
+from conf import conf_reader
 
 class world:
     worldmap = {}
     
     def __init__(self):
         world.worldmap
+    
